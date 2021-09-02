@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimatedSplashScreen", "AnimatedSplashScreen\AnimatedSplashScreen\AnimatedSplashScreen.csproj", "{B72CC7ED-D949-4200-A8C2-127D3AB97760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimatedSplashScreen.Android", "AnimatedSplashScreen\AnimatedSplashScreen.Android\AnimatedSplashScreen.Android.csproj", "{32CC146E-74B4-4BC8-860D-04E7756342E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72CC7ED-D949-4200-A8C2-127D3AB97760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72CC7ED-D949-4200-A8C2-127D3AB97760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72CC7ED-D949-4200-A8C2-127D3AB97760}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B72CC7ED-D949-4200-A8C2-127D3AB97760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72CC7ED-D949-4200-A8C2-127D3AB97760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72CC7ED-D949-4200-A8C2-127D3AB97760}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{32CC146E-74B4-4BC8-860D-04E7756342E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CC146E-74B4-4BC8-860D-04E7756342E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CC146E-74B4-4BC8-860D-04E7756342E2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{32CC146E-74B4-4BC8-860D-04E7756342E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CC146E-74B4-4BC8-860D-04E7756342E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CC146E-74B4-4BC8-860D-04E7756342E2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22661BC5-EB98-4D04-BE75-42EBF5F9EA4D}
+	EndGlobalSection
+EndGlobal
